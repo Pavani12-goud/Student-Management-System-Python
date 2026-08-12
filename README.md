@@ -12,11 +12,13 @@ A console-based Student Management System built using Python Object Oriented Pro
 - **Input Validations**: 
     - Mobile: 10 digits, starts with 6/7/8/9
     - Age: 18 to 60 years
-      
-1.  **Static State / Class Variables**: Stored in class memory
-  
-2.  **Non-Static State / Instance Variables**: Stored in object memory
 
+##Concepts Used
+
+1.  **Static State / Class Variables**: Stored in class memory
+    
+2.  **Non-Static State / Instance Variables**: Stored in object memory
+    
 3.  **Constructor**: Executes automatically when object is created. Used to initialize instance variables.
 4.  **Class Method**: To access and modify class variables
 5.  **Static Method**: For validation logic
